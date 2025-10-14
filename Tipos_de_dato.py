@@ -65,9 +65,9 @@ print(cadena[-1])
 
 print(cadena[0:4])
 print(cadena[6:11])
-''' esto de define en la primer posicion desde que posicion 
+''' esto se define en la primer posicion desde que posicion 
 voy a partir o empezar a obtener y el segundo numero es la posicion en la que voy a cortar la cadena mas 1
-
+o bien el length de la cadena
 
 si no se especifica el indice o posicion de partida este se toma como posicion 0
 y en caso de que ninguna posicion se establezca se usa obtiene toda la cena de texto
@@ -111,7 +111,7 @@ print(cadena[-6:-1:2])
 print(cadena[::-1])
 ''' cadena[
  (no se especifica entonces parte desde 0): 
- (no se especifica asi que toma toda la cadena): 
+ (no se especifica asi que toma toda la cadena o el length total de la cadena): 
  (va ir obteniendo de menos uno -1 en menos uno -1)
 ]'''
 
